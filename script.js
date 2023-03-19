@@ -82,8 +82,8 @@ var typed = new Typed(".typing", {
 
 
   document.getElementById('resume').addEventListener('click', (e) => {
-    window.open("https://drive.google.com/file/d/1lhP33lVfvsjaS7fwCfsY7-BeyC8bdzbX/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1OSfcxF7LLu4fhi9Xf31Ec9Hpbn6-9WnL/view?usp=sharing", "_blank");
   })
   document.getElementById('resume2').addEventListener('click', (e) => {
-    window.open("https://drive.google.com/file/d/1lhP33lVfvsjaS7fwCfsY7-BeyC8bdzbX/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1OSfcxF7LLu4fhi9Xf31Ec9Hpbn6-9WnL/view?usp=sharing", "_blank");
   })
