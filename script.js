@@ -73,17 +73,17 @@ var typed = new Typed(".typing", {
     loop: true,
   });
 
-  var typed = new Typed(".typing-2", {
-    strings: ["TECHNICAL SUPPORT ENGINEER"],
-    typeSpeed: 100,
-    backSpeed: 60,
-    loop: true,
-  });
+  // var typed = new Typed(".typing-2", {
+  //   strings: ["TECHNICAL SUPPORT ENGINEER"],
+  //   typeSpeed: 100,
+  //   backSpeed: 60,
+  //   loop: true,
+  // });
 
 
   document.getElementById('resume').addEventListener('click', (e) => {
-    window.open("https://drive.google.com/file/d/1OSfcxF7LLu4fhi9Xf31Ec9Hpbn6-9WnL/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1S4kgzF1Djg0UU6-d6YZLBnWsdHwzaWYS/view?usp=sharing", "_blank");
   })
   document.getElementById('resume2').addEventListener('click', (e) => {
-    window.open("https://drive.google.com/file/d/1OSfcxF7LLu4fhi9Xf31Ec9Hpbn6-9WnL/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1S4kgzF1Djg0UU6-d6YZLBnWsdHwzaWYS/view?usp=sharing", "_blank");
   })
